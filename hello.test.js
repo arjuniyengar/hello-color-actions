@@ -1,6 +1,6 @@
 const hello = require("./hello");
 describe("My hello", () => {
   test("works", () => {
-    expect(hello.hello()).toEqual("Hello World from arjuns home in Sandy Utah");
+    expect(hello.hello()).toEqual("Hello World from arjuns home in Utah");
   });
 });
